@@ -1,0 +1,46 @@
+* {
+  background-image:none;
+  background-color: black !important;
+  color: white;
+  box-shadow: none !important;
+  border-color: white !important;
+}
+
+body, div.(not)header-widget-area, span, h1, h2, h3, h4, h5,
+p
+ {
+  background-image: none !important;
+  background-color: black !important;
+  color: white !important;
+}
+
+.featured-content-secondary,
+.site-branding,
+.site-main,
+.site-title-group,
+.site-description,
+.widget-area,
+.site-footer,
+.entry-title
+ {
+  background-image: none !important;
+  background-color: black !important;
+  color: white !important;
+}
+
+
+a, a:hover, a:active, a:visited{
+  color: white !important;
+  text-decoration: underline !important;
+}
+
+.site-logo,
+img {
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+}
+
+.header-widget-area *{
+  background-color: white !important;
+  color: black !important;
+}
