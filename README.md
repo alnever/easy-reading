@@ -1,10 +1,10 @@
 ## Easy Reading Wordpress Widget Plugin ##
 
-**Easy reading** is a WopdPress pluging that provides a simple iconical widget for people having poor vision. 
+**Easy reading** is a WopdPress plugin that provides a simple iconical widget for people having poor vision. 
 
-This pluging was tested with WordPress 4.8.1-4.8.2.
+This plugin was tested with WordPress 4.8.1-4.8.2.
 
-The pluging doen't contain any text information, so the localisation of the plugin isn't required.
+The plugin doen't contain any text information, so the localisation of the plugin isn't required.
 
 ### Possibilities of the version 1.0.0 ###
 
