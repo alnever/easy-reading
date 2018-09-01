@@ -1,0 +1,11 @@
+
+ul.easy-reading{
+  margin: 6px;
+  float: right;
+}
+
+ul.easy-reading li{
+  display: inline; /* horizontal list, use "list-item" or other appropriate value for vertical list */
+  list-style-type: none; /* use "initial" or other to enable bullets */
+  margin: 0 5px 0 0; /* adjust spacing between items */
+}
